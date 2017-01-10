@@ -1,0 +1,48 @@
+#header-nav {
+	background-color: #4d84dd;
+}
+.navbar-default #header-nav a:hover {
+	color:white;
+}
+.navbar-header .navbar-brand {
+	color: white;
+}
+.navbar-default #navnav {
+	text-align: center;
+}
+.navbar .navbar-nav>li:hover {
+	background-color: #1a53af;
+	color: white;
+}
+
+.navbar-default .navbar-nav>li>a {
+		color: white;
+}
+.navbar-default .navbar-nav>li>a:hover {
+		color: white;
+}
+.navbar-default .navbar-header>button {
+	border-color: grey;
+	background-color: #1a53af;
+}
+h2 {
+	font-weight: bold;
+	font-size: 2em;
+}
+.container-fluid .loripsum{
+	text-align: center;
+	position: relative;
+	font-weight: normal;
+	background-color: #4d84dd;
+	line-height: 1.5em;
+}
+.container-fluid .titled{
+	font-size: 1.7em;
+	font-weight: bold;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+.container-fluid div>p>a {
+	color: white;
+}
