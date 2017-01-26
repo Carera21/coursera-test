@@ -124,6 +124,7 @@ function buildAndShowHomeHTML (categories) {
     false); // False here because we are getting just regular HTML from the server, so no need to process JSON.
 }
 
+
 // Given array of category objects, returns a random category object.
 function chooseRandomCategory (categories) {
   // Choose a random index into the array (from 0 inclusively until array length (exclusively))
